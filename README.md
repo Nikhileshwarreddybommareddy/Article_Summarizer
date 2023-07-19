@@ -32,7 +32,7 @@ The text summarizer works by following these steps:
 
 3. Run the text summarizer:
 
-`python text_summarizer.py`
+`python app.py`
 
 4. Enter the input text when prompted and press Enter.
 5. The program will generate a summary of the input text and display it.
